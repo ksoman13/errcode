@@ -18,4 +18,6 @@
  * For example, Zowe CLI offers Jobs APIs that can be invoke programmatically from a VS code extension to create
  * a Job viewer/tree extension.
  */
-export * from "./api/Files";
+
+export * from "./api/doc/IErrCodes";
+export * from "./api/Ecodes";

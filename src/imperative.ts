@@ -26,7 +26,7 @@ const config: IImperativeConfig = {
         "the [actions] are defined in the project under 'src/cli/', " +
         "& the [objects] (definitions & handler) are defined in the project under 'src/cli/'.",
     productDisplayName: "Zowe CLI Sample Plug-in",
-    name: "zowe-cli-sample"
+    name: "errcode"
 };
 
 export = config;
